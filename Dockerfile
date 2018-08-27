@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver-amd64:v1.11.2
+FROM k8s.gcr.io/pause:3.1
 MAINTAINER lprincewhn@gmail.com
